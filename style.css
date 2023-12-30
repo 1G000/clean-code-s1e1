@@ -169,3 +169,10 @@ button {
 .task-item.editMode .task-label {
   display: none;
 }
+
+.hidden {
+  visibility: hidden;
+  margin: 0;
+  padding: 0;
+  height: 0;
+}
